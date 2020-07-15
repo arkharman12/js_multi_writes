@@ -1,1 +1,2 @@
-# js_multi_writes
+# JS Multi-Writes
+Explore different JS outputs
